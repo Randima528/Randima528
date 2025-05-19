@@ -23,7 +23,7 @@ I'm <b>Randima Nethmini</b>, an undergraduate passionate about <b>software quali
 
 ## 👨‍💻Connect with me
 
-<a href="https://www.linkedin.com/in/RandimaNethmini/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
+<a href="www.linkedin.com/in/randima-nethmini-686969302" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
 <a href="mailto:randimanethmini528@gmail.com?subject=Hi%20Randima%20,%20nice%20to%20meet%20you!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
 
 
